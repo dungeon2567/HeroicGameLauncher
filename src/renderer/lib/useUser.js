@@ -6,7 +6,7 @@ import {
 
 import { atom, useRecoilState, useRecoilValue } from "recoil";
 
-import { app, auth } from "./firebase";
+import { app, auth } from "./firebaseConfig";
 
 const userState = atom({
   key: "user",
