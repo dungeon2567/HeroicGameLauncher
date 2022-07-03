@@ -34,6 +34,9 @@
   },
   "browserslist": [],
   "dependencies": {
+    "axios": "^0.27.2",
+    "glob": "^8.0.3",
+    "got": "^11.8.3",
     "@mantine/core": "^5.0.0-alpha.13",
     "@mantine/dates": "^5.0.0-alpha.13",
     "@mantine/form": "^5.0.0-alpha.13",
@@ -99,7 +102,6 @@
     "eslint-plugin-react-hooks": "^4.5.0",
     "file-loader": "^6.2.0",
     "html-webpack-plugin": "^5.5.0",
-    "husky": "^8.0.1",
     "identity-obj-proxy": "^3.0.0",
     "jest": "^28.1.0",
     "jest-environment-jsdom": "^28.1.0",
