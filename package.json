@@ -1,6 +1,7 @@
 {
   "description": "A foundation for scalable desktop apps",
   "version": "1.0.0",
+  "name": "HeroicGameLauncher",
   "keywords": [
     "electron",
     "boilerplate",
